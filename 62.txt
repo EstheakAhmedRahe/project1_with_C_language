@@ -1,0 +1,13 @@
+NAME        : RAISA MARZANA CHOWDHURY
+STUDENT ID  : 1912020063
+Semester    : Spring-2019
+Credit Cmpt : 37.5
+CGPA        : 3.35
+Grade       : B(+)
+E-mail      : raisachowdhury41@gmail.com
+Department  : Computer Science &amp; Engineering
+Program     : B.Sc in Cse
+Batch       : 50 th
+Contact     : 01743306803
+Blood Group : A+
+Address     : Shunarpara sadar,Sylhet

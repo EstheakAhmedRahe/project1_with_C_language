@@ -1,0 +1,13 @@
+NAME        : SABRINA JANNAT SETU
+STUDENT ID  : 1912020054
+Semester    : Spring-2019
+Credit Cmpt : 37.5
+CGPA        : 3.11
+Grade       : B
+E-mail      : setu2901@gmail.com
+Department  : Computer Science &amp; Engineering
+Program     : B.Sc in Cse
+Batch       : 50 th
+Blood Group : Ab+
+Contact     : 01627060748
+Address     : Sylhet city ,Sylhet

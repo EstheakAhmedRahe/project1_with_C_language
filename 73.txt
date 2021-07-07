@@ -1,0 +1,13 @@
+NAME        : APURBO DEB NATH
+STUDENT ID  : 1912020073
+Semester    : Spring-2019
+Credit Cmpt : 37.5
+CGPA        : 3.64
+Grade       : A(-)
+E-mail      :
+Department  : Computer Science &amp; Engineering
+Program     : B.Sc in Cse
+Batch       : 50 th
+Blood Group : O+
+Contact     : 01774573076
+Address     : Mejortila , Sadar-Sylhet

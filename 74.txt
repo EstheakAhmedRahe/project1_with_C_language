@@ -1,0 +1,15 @@
+
+
+NAME        : AHSANUR RAHMAN
+STUDENT ID  : 1912020074
+Semester    : Spring -2019
+Credit Cmpt : 37.5
+CGPA        : 3.94
+Grade       : A(+)
+E-mail      : a.r.nasim4250@gmail.com
+Department  : Computer Science &amp; Engineering
+Program     : B.Sc in Cse
+Batch       : 50 th
+Blood Group : O+
+Contact     : 01642480245
+Address     : Kumarpara Sadar,Sylhet

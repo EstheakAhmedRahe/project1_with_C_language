@@ -1,0 +1,15 @@
+
+
+NAME        : SUMAIYA SIDDIA JUI
+STUDENT ID  : 1912020087
+Semester    : Spring -2019
+Credit Cmpt : 37.5
+CGPA        : 3.78
+Grade       : A
+E-mail      : juirahman17301@gmail.com
+Department  : Computer Science &amp; Engineering
+Program     : B.Sc in Cse
+Batch       : 50 th
+Blood Group : B+
+Contact     : 01829685117
+Address     : Upashahor sadar,Sylhet

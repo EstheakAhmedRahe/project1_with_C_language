@@ -1,0 +1,13 @@
+NAME        : MD.ANJUM MASUD RAFI
+STUDENT ID  : 1912020069
+Semester    : Spring -2019
+Credit Cmpt : 37.5
+CGPA        : 3.40
+Grade       : B(+)
+E-mail      : js.rafi999@gmail.com
+Department  : Computer Science &amp; Engineering
+Program     : B.Sc In Cse
+Batch       : 50 th
+Blood Group : O +
+Contact     : 01859282108
+Address : Sunamgonj Sadar,Sylhet

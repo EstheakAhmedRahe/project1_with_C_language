@@ -1,0 +1,11 @@
+Name        : Sumi Begum
+Student ID  : 1912020057
+Semester    : 4th
+Credit Cmpt : 37.5
+CGPA        : 2.71
+Grade       : C(+)
+E-mail      : begum@gmail.com
+Department  : Computer Science & Engineering
+Program     : B.Sc in Cse
+Blood Group : b(+)
+Address     : London,England

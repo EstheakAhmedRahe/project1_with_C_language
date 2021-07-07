@@ -1,0 +1,14 @@
+
+NAME        : MAHPARA KHAN ORPA
+STUDENT ID  : 1912020077
+Semester    : Spring -2019
+Credit Cmpt : 37.5
+CGPA        : 3.63
+Grade       : A(-)
+E-mail      : twinklystarangel411@gmail.com
+Department  : Computer Science &amp; Engineering
+Program     : B.Sc in Cse
+Batch       : 50 th
+Blood Group : A+
+Contact     : 01790020524
+Address     : Akhali , Sadar-Sylhet

@@ -1,0 +1,14 @@
+
+NAME        : ALOK DEB
+STUDENT ID  : 1912020084
+Semester    : Spring -2019
+Credit Cmpt : 37.5
+CGPA        : 3.5
+Grade       : A(-)
+E-mail      : alock.deb45@gamil.com
+Department  : Computer Science &amp; Engineering
+Program     : B.Sc in Cse
+Batch       : 50 th
+Blood Group : A+
+Contact     : 01759739246
+Address     : Jaggannathpur ,Sylhet

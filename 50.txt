@@ -1,0 +1,12 @@
+Name       : Md.Montasir Rahman Ayon
+Student ID : 1912020050
+Semester   : spring
+Credit Cmpt: 37.5
+CGPA       : 2.58
+Grade      : C(+)
+E-mail     : ayon@gmail.com
+contact    : 01745876141
+Department : Computer Science & Engineering
+Program    : B.Sc in Cse
+Blood Group:
+Address    : Sylhet city ,Sylhet

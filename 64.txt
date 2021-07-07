@@ -1,0 +1,11 @@
+Name : Sayef Uddin Jamil
+Student ID:1912020064
+Semester: 4th
+Credit Complete: 37.5
+CGPA :2.26
+Grade :C
+E-mail :jamil@gmail.com
+Department : Computer Science & Engineering
+Program : B.Sc in Cse
+Blood Group:
+Address:Habiganj sadar,Sylhet

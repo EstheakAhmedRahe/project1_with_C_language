@@ -1,0 +1,13 @@
+NAME        : NAIMUR RASHID RAHIB
+STUDENT ID  : 1912020052
+Semester    : Spring-2019
+Credit Cmpt : 37.5
+CGPA        : 3.45
+Grade       : B(+)
+E-mail      : rahibrashid002@gmail.com
+Department  : Computer Science &amp; Engineering
+Program     : B.Sc in Cse
+Blood Group : O+
+Batch       : 50 th
+Contact     : 01785766545
+Address     : Moulovibazar sadar ,Sylhet

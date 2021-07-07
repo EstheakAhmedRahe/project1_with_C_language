@@ -1,0 +1,13 @@
+NAME        : SHAHREAR AHMED SHUVON
+STUDENT ID  : 1912020079
+Semester    : Spring -2019
+Credit Cmpt : 37.5
+CGPA        : 3.37
+Grade       : B(+)
+E-mail      : shahrearahmedshuvon003@gmail.com
+Department  : Computer Science &amp; Engineering
+Program     : B.Sc in Cse
+Batch       : 50 th
+Blood Group : B+
+Contact     : 0177276674
+Address     : Jalalabad Cantonment , Sadar-Sylhet

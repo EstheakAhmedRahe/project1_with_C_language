@@ -1,0 +1,13 @@
+NAME         : JOYNOBA JANNAT BUSHRA
+STUDENT ID   : 1912020086
+Semester     : Spring -2019
+Credit Compt : 37.5
+CGPA         : 3.54
+Grade        : A(-)
+E-mail       : jannatrahman6899@gmail.com
+Department   : Computer Science &amp; Engineering
+Program      : B.Sc in Cse
+Batch        : 50 th
+Blood Group  : B+
+Contact      : 01829685117
+Address      : Upashahor sadar ,Sylhet

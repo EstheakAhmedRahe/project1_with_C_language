@@ -1,0 +1,14 @@
+
+NAME        : UMMA OYRA SHIMU
+STUDENT ID  : 1912020089
+Semester    : Spring -2019
+Credit Cmpt : 37.5
+CGPA        : 3.32
+Grade       : B(+)
+E-mail      : Ummashimu245@gmail.com
+Department  : Computer Science &amp; Engineering
+Program     : B.Sc in Cse
+Batch       : 50 th
+Blood Group : O+
+Contact     : 01778562515
+Address     : Tatipara sadar,Sylhet

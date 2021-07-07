@@ -1,0 +1,14 @@
+
+NAME       : SAYED HUSSAIN RABBI
+STUDENT ID : 1912020060
+Semester   : Spring-2019
+Credit Cmpt: 37.5
+CGPA       : 2.81
+Grade      : B(-)
+E-mail     : Sayeedrabbi998@gmail.com
+Department : Computer Science &amp; Engineering
+Program    : B.Sc in Cse
+Batch      : 50 th
+Blood Group: O+
+Contact    : 01310897925
+Address    : Lamapara sadar ,Sylhet

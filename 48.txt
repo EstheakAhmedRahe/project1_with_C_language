@@ -1,0 +1,12 @@
+Name        : Nijam Uddin Foysol
+Student ID  : 1912020048
+Semester    : 4th
+Credit Cmpt : 37.5
+CGPA        : 2.58  
+Grade       : C(+) 
+E-mail      : foysol@gmail.com
+contact     : 01712329913
+Department  : Computer Science & Engineering
+Program     : B.Sc in Cse
+Blood Group : B(+)
+Address     : Habiganj sadar ,Sylhet

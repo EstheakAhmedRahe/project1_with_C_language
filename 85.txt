@@ -1,0 +1,14 @@
+
+NAME        : MAHBUBA KHANAM
+STUDENT ID  : 1912020085
+Semester    : Spring -2019
+Credit Cmpt : 37.5
+CGPA        : 3.8
+Grade       : A(+)
+E-mail      :
+Department  : Computer Science &amp; Engineering
+Program     : B.Sc in Cse
+Batch       : 50 th
+Blood Group : 
+Contact     : 01985285374
+Address     : Gubshahor sadar, Sylhet

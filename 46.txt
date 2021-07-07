@@ -1,0 +1,13 @@
+Name         : Jarin Tasnim Mahi 
+Student ID   : 1912020046
+Semester     : Spring-2019	
+Credit  Cmpt : 37.5
+CGPA         : 3.41
+Grade        : B(+)
+E-mail       : jjarint@gmail.com
+Department   : Computer  Science  &  Engineering
+Program      : B.Sc  in  Cse
+Batch        : 50th
+Blood Group  : A(+)
+Contact      : 017000000000
+Address      : Cumilla,Sadar-Sylhet

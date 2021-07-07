@@ -1,0 +1,15 @@
+Name        : Estheak Ahmed Rahe
+Student ID  : 1912020058
+Semester    : Spring-2019
+CGPA        : 3.67
+Grade       : A-
+Credit Cmpt : 40.5
+contact     : 01705633982
+email       : estheakahmed1999@gmail.com
+blood group : B(+) positive
+adders      : lamabazar,sylhet.
+Department  : Computer Science & Engineering
+Program     : B.Sc. (Honours) in Computer Science & Engineering
+
+
+

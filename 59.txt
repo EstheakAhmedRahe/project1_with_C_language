@@ -1,0 +1,14 @@
+
+NAME        : MANISHA DAS PIYA
+STUDENT ID  : 1912020059
+Semester    : Semester-19
+Credit Cmpt : 37.5
+CGPA        : 3.86
+Grade       : A
+E-mail      : monishadaspiya@gmail.co
+Department  : Computer Science &amp; Engineering
+Program     : B.Sc in Cse
+Batch       : 50 th
+Blood Group : B +
+Contact     : 01794839258
+Address     : Mejortila sadar , Sylhet

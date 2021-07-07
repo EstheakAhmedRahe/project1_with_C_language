@@ -1,0 +1,13 @@
+NAME        : NAYEBUL JANNAT CHOWDHURY
+STUDENT ID  : 1912020067
+Semester    : Spring -2019
+Credit Cmpt : 37.5
+CGPA        : 3.30
+Grade       : B (+)
+E-mail      : chynayeb780@gmail.com
+Department  : Computer Science &amp; Engineering
+Program     : B.Sc (Honours) in Cse
+Batch       : 50 th
+Blood Group : B+
+Contact     : 01751708920
+Address     : Shahporan , Sadar-Sylhet

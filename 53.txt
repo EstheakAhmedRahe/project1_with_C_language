@@ -1,0 +1,13 @@
+NAME        : MAHED AHMED CHOWDHURY
+STUDENT ID  : 1912020053
+Semester    : Spring-2019
+Credit Cmpt : 37.5
+CGPA        : 3.65
+Grade       : A(-)
+E-mail      : Mahed255261@gmailm.com
+Department  : Computer Science &amp; Engineering
+Program     : B.Sc in Cse
+Batch       : 50 th
+Blood Group : A+
+Contact     : 01759704872
+Address     : Sylhet city,Sylhet

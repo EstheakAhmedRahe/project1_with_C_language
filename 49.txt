@@ -1,0 +1,13 @@
+
+Name         : Bilash Halder
+Student ID   : 1912020049
+Semester     : spring-19
+Credit Cmpt  : 37.5
+CGPA         : 3.28
+Grade        : B (+)
+E-mail       : halder@gmail.com
+contact      : 01700694152
+Department   : Computer Science & Engineering
+Program      : B.Sc in Cse
+Blood Group  : O(+)
+Address      : Lamabazar,Sylhet

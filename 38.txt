@@ -1,0 +1,12 @@
+Name        : Ismat Jerin Arpa
+ID          : 1912020038
+Semester    : Spring-2019
+CGPA        : 3.75
+Grade       : A
+Credit Cmpt : 40.5
+Contact     : 01794622131
+Email       : ismatjerin3@gmail.com
+Program     : B.Sc(Honours) in computer scince
+Department  : Computer Science & Engineering
+Adress      : Ambarkhana,Sylhet.
+Blood group : B(-)

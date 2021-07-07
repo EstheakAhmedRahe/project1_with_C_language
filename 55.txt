@@ -1,0 +1,13 @@
+Name        : Nirjhar Paul Utsha 
+STUDENT ID  : 1912020055
+Semester    : Spring -2019
+Credit Cmpt : 37.5
+CGPA        : 2.95
+Grade       : B(-)
+E-mail      : Nirjharutsha@gmail.com
+Department  : Computer Science &amp; Engineering
+Program     : B.Sc in Cse
+Batch       : 50 th
+Blood Group : A(+)
+Contact     : 01796700169
+Address     : Kali bari Sadar ,Sylhet

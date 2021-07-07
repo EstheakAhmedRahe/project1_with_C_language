@@ -1,0 +1,14 @@
+
+NAME        : MD.SHAKIB HASAN
+STUDENT ID  : 1912020081
+Semester    : Spring -2019
+Credit Cmpt : 37.5
+CGPA        : 2.88
+Grade       : B(-)
+E-mail      : mdshakibhasan581@gmail.com
+Department  : Computer Science &amp; Engineering
+Program     : B.Sc in Cse
+Batch       : 50 th
+Blood Group : B+
+Contact     : 01796484418
+Address     : Fenchuganj ,Sylhet

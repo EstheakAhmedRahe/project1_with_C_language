@@ -1,0 +1,14 @@
+ 
+Name        : Nakib islam chowdhury
+Student ID  : 1912020056
+Semester    : Spring -2019
+Credit Cmpt : 37.5
+CGPA        : 3.40
+Grade       : B(+)
+E-mail      : nakib327@gmail.com
+Batch       : 50th 
+Blood Group : B(+) positive
+Contact     : 01307664678 
+Address     : Malnichora  tea  garden ,Sylhet
+Department  : Computer  Science  &  Engineering
+Program     : B.Sc. (Honours) in Computer Science & Engineering

@@ -1,0 +1,13 @@
+NAME        : MD.HRIDOY CHOWDHURY
+STUDENT ID  : 1912020075
+Semester    : Spring -2019
+Credit Cmpt : 37.5
+CGPA        : 3.60
+Grade       : A(-)
+E-mail      :
+Department  : Computer Science &amp; Engineering
+Program     : B.Sc in Cse
+Batch       : 50 th
+Blood Group : A(+)
+Contact     : 01642480245
+Address     : Moulovibazar sadar,Sylhet

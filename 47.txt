@@ -1,0 +1,12 @@
+Name        : Kamolesh Roy Pritom
+Student ID  : 1912020047
+Semester    : spring-19
+Credit Cmpt : 37.5
+CGPA        : 3.7	
+Grade       : A(-)
+contact     : 01732792640
+E-mail      : Pritomroy20062@gmail.com
+Department  : Computer Science & Engineering
+Program     : B.Sc in Cse
+Blood Group : O(+)
+Address     : Sunamganj sadar ,Sylhet

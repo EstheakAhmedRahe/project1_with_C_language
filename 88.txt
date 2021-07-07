@@ -1,0 +1,14 @@
+
+NAME        : HASAN AL SHABBIR
+STUDENT ID  : 1912020088
+Semester    : Spring -2019
+Credit Cmpt : 37.5
+CGPA        : 3.74
+Grade       : A(-)
+E-mail      : hasanalshabbir257@gmail.com
+Department  : Computer Science &amp; Engineering
+Program     : B.Sc in Cse
+Batch       : 50 th
+Blood Group : O+
+Contact     : 01791568979
+Address     : Akhali sadar,Sylhet

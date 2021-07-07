@@ -1,0 +1,12 @@
+Name        : Bishal Acharjee
+Student ID  : 1912020065
+Semester    : 4th
+Credit Cmpt : 37.5
+CGPA        : 2.66
+Grade       : C(+)
+E-mail      : bishal@gmail.com
+Bload       : O(+)
+contact     : 01700694152
+Department  : Computer Science & Engineering
+Program     : B.Sc in Cse
+Address     : Sunamganj sadar,Sylhet.
